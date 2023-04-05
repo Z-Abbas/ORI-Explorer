@@ -5,8 +5,8 @@ A unified cell-specific tool for Origin of Replication sites Prediction by Featu
 
 
 ## Specifications
-Python 3.7
-tensorflow 2.4.1
-keras 2.4.3
-numpy 1.18.5
+- Python 3.7\
+- tensorflow 2.4.1\
+- keras 2.4.3\
+numpy 1.18.5\
 pandas 1.2.4
