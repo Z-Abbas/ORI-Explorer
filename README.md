@@ -19,5 +19,5 @@ SHapley Additive exPlanation is usually termed as SHAP is a widespread utility t
 
 
 ### Cross-specie
-We assessed the applicability of a specie- or cell-specific model to other cells by cross-specie testing.
+We assessed the applicability of a specie or cell-specific model to other cells by cross-specie testing.
 
