@@ -12,7 +12,9 @@ A unified cell-specific tool for Origin of Replication sites Prediction by Featu
 - pandas 1.2.4
 
 ## Analysis
+SHapley Additive exPlanation is usually termed as SHAP is a widespread utility to find out the features which are most consequential during the prediction of a sample by ML or DL models. We used it to show the feature importance of the top 20 features as shown in the figure below.
+
 ![shap](https://user-images.githubusercontent.com/80881943/234735967-077d6efc-e68f-42d3-bfbc-0ed5074fedf4.png)
 
 
-SHapley Additive exPlanation is usually termed as SHAP is a widespread utility to find out the features which are most consequential during the prediction of a sample by ML or DL models. We used it to show the feature importance of the top 20 features as shown in the figure above.
+
